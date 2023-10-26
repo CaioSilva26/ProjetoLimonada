@@ -103,7 +103,7 @@ fun ProjetoLimonada() {
         )
         Text(
             text = stringResource(idString) + qtdClick,
-            fontSize = 15.sp
+            fontSize = 16.sp
 
         )
     }
